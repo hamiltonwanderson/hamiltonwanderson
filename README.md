@@ -1,16 +1,45 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**hamiltonwanderson/hamiltonwanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, World! 
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=everything+is;under+ctrl)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn][linkedinimage]][linkedin] [![Instagram][intagramimage]][instagram] [![Spotify][spotifyimage]][linkedin]
+
+</div>
+
+***
+### I'm Currently
+- 📚  Learning Swift
+- 📱  Working on something cool :wink:
+### How to reach me
+- 💻  Connect with me on [LinkedIn][linkedin]
+- 📫  You can get in touch with me by [email][email]
+
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+
+
+***
+
+<div align="center">
+
+![visitors]
+
+</div>
+
+<!-- links to social media -->
+
+[homepage]: https://hamiltonw.me/
+[linkedin]: https://www.linkedin.com/in/hamiltonw/
+[email]: mailto:hamiltonwanderson@outlook.com
+[instagram]: https://www.instagram.com/hamiltonwanderson/
+[spotify]: https://open.spotify.com/user/12142164827
+[visitors]: https://visitor-badge.glitch.me/badge?page_id=hamiltonwanderson.hamiltonwanderson
+
+<!-- links to social media icons -->
+
+[linkedinimage]: https://raw.githubusercontent.com/pixelstorm/social-svg-icons/8b7f70ec8b280ee6ccde1746865cd4157b43685e/social-1_round-linkedin.svg
+[intagramimage]:https://raw.githubusercontent.com/pixelstorm/social-svg-icons/8b7f70ec8b280ee6ccde1746865cd4157b43685e/social-1_round-instagram.svg
+[spotifyimage]:https://raw.githubusercontent.com/pixelstorm/social-svg-icons/8b7f70ec8b280ee6ccde1746865cd4157b43685e/social-1_round-spotify.svg
