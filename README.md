@@ -15,8 +15,6 @@
 - 📫  You can get in touch with me by [email][email]
 
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
 
 
 ***
