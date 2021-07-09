@@ -2,8 +2,6 @@
 
 ## Hello, World! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=everything+is;under+ctrl)](https://git.io/typing-svg)
-
 [![LinkedIn][linkedinimage]][linkedin] [![Instagram][intagramimage]][instagram] [![Spotify][spotifyimage]][linkedin]
 
 </div>
