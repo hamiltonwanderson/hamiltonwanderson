@@ -2,7 +2,7 @@
 
 ## Hello, World! 
 
-[![LinkedIn][linkedinimage]][linkedin] [![Instagram][intagramimage]][instagram] [![Spotify][spotifyimage]][linkedin]
+[![LinkedIn][linkedinimage]][linkedin] [![Instagram][intagramimage]][instagram] [![Spotify][spotifyimage]][spotify]
 
 </div>
 
