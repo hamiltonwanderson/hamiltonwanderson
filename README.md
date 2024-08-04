@@ -8,7 +8,6 @@
 
 ***
 ### I'm Currently
-- 📚  Learning Swift
 - 📱  Working on something cool :wink:
 ### How to reach me
 - 💻  Connect with me on [LinkedIn][linkedin]
